@@ -2,3 +2,4 @@ Flask
 PyQRCode
 gunicorn
 pyqrcode
+pypng
